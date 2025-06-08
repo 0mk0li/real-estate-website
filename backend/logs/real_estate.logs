@@ -1,0 +1,9 @@
+2025-06-08 10:12:40,263 apps.profiles.signals INFO     om.official.17@gmail.com's profile created
+2025-06-08 10:12:40,267 apps.profiles.signals INFO     om.official.17@gmail.com's profile created
+2025-06-08 10:13:21,072 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-06-08 10:13:23,336 django.request WARNING  Not Found: /
+2025-06-08 10:13:23,519 django.request WARNING  Not Found: /favicon.ico
+2025-06-08 10:13:38,341 apps.profiles.signals INFO     om.official.17@gmail.com's profile created
+2025-06-08 10:19:15,870 django.request WARNING  Not Found: /media/profile_default.png
+2025-06-08 10:19:46,026 django.request WARNING  Not Found: /media/profile_default.png
+2025-06-08 10:20:05,082 django.request WARNING  Not Found: /media/profile_default.png
